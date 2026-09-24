@@ -17,7 +17,6 @@
 - ✅ OverTheWire Bandit — Levels 0-15 completed
 - 🔄 TryHackMe — in progress
 - 🔄 PicoCTF — in progress
-- 🔄 Kase Scenarios — completed "Orkla: Dragon Con Detective"
 - 🔄 GSSoC'26 — open source contributor
 
 ### 🏆 Certifications & Roadmap
@@ -25,7 +24,7 @@
 - 📌 CompTIA Network+ (Planned)
 - 📌 CompTIA Security+ (Planned)
 - 📌 eJPT (Planned)
-- 📌 OSCP (Long-term goal)
+- 📌 CCNA - Ongoing
 
 ### 📫 Connect With Me
 
